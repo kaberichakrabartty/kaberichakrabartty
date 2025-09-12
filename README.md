@@ -1,10 +1,9 @@
 # 👋 Hi, I'm Kaberi Chakrabartty!
 ---
 
-<p>I'm an enthusiastic developer focused on crafting web applications and software, with expertise in MERN stack development.</p>
+<h3>I'm an enthusiastic developer focused on crafting web applications and software, with expertise in MERN stack development.</h3>
 
 
-Welcome to my GitHub profile!
 
 
 
