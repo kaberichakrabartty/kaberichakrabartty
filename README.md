@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Kaberi Chakrabartty!
-<br> <br>
-
+<br> 
 <h3>I'm an enthusiastic developer focused on crafting web applications and software, with expertise in MERN stack development.</h3>
 
-----
+---
 
 🚀 Languages and Tools
 
