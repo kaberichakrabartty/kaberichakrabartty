@@ -28,7 +28,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 </p>
 ```
 
-```html id="djkla8"
+
 ## 🌐 Connect With Me
 
 <p align="center">
