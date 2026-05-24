@@ -8,7 +8,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 ## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,figma,git,github,vscode" />
 </p>
 ```
 ✨ About Me
