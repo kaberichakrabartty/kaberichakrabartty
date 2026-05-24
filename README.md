@@ -28,4 +28,12 @@ Passionate about building modern, responsive, and user-friendly web applications
 </p>
 ```
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+</p>
+```
+
+
 
