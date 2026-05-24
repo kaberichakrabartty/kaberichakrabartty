@@ -28,12 +28,27 @@ Passionate about building modern, responsive, and user-friendly web applications
 </p>
 ```
 
-## 🐍 Contribution Snake
+```html id="djkla8"
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" alt="Snake animation" />
+  <a href="https://github.com/kaberichakrabartty">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://linkedin.com/in/
+www.linkedin.com/in/
+kaberi-chakrabartty-koushiki
+">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://instagram.com/madhuribanerjee92">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
 </p>
 ```
+
 
 
 
