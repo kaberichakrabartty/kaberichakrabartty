@@ -55,7 +55,7 @@ kaberi-chakrabartty-koushiki
   <img src="https://github-profile-trophy.vercel.app/?username=kaberichakrabartty&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 ```
-```html id="qplma1"
+
 ## 💫 Profile Views
 
 <p align="center">
