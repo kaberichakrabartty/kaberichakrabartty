@@ -1,27 +1,22 @@
-# 👋 Hi, I'm Kaberi Chakrabartty!
+👋 Hi, I'm Kaberi Chakrabartty
+💻 Frontend Developer | UI Enthusiast | Creative Web Designer
 
-<h3>I'm an enthusiastic developer focused on crafting web applications and software.</h3>
+Passionate about building modern, responsive, and user-friendly web applications with clean UI and interactive experiences.
 
----
 
-🚀 Languages and Tools
 
-<p align="left">
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  </a>
-  <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="https://www.javascript.com/" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  </a>
+## 🚀 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,firebase,tailwind,bootstrap,figma,git,github,vscode" />
 </p>
+```
+✨ About Me
+🌱 Currently learning advanced React & backend development
+🎨 Love creating aesthetic and interactive UI designs
+🚀 Interested in AI-powered web applications
+💡 Always exploring new technologies and creative ideas
+📚 Passionate about coding, design, and innovation
+
 
 
