@@ -55,6 +55,14 @@ kaberi-chakrabartty-koushiki
   <img src="https://github-profile-trophy.vercel.app/?username=kaberichakrabartty&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 ```
+```html id="qplma1"
+## 💫 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaberichakrabartty&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+```
+
 
 
 
