@@ -61,7 +61,14 @@ kaberi-chakrabartty-koushiki
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kaberichakrabartty&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
+
+## 🌌 Developer GIF
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+</p>
 ```
+
 
 
 
