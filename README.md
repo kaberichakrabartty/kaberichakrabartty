@@ -26,7 +26,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
-```
+
 
 
 ## 🌐 Connect With Me
@@ -47,7 +47,7 @@ kaberi-chakrabartty-koushiki
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-```
+
 
 ## 🏆 GitHub Trophies
 
@@ -67,7 +67,7 @@ kaberi-chakrabartty-koushiki
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
-```
+
 
 ## ⚡ Random Dev Quote
 
@@ -82,7 +82,7 @@ kaberi-chakrabartty-koushiki
   <img src="https://img.shields.io/badge/Editor-VS%20Code-blueviolet?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Browser-Chrome-orange?style=for-the-badge"/>
 </p>
-```
+
 
 
 ## ✨ Aesthetic Divider
@@ -90,7 +90,7 @@ kaberi-chakrabartty-koushiki
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
-```
+
 
 
 
