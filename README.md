@@ -63,14 +63,9 @@ kaberi-chakrabartty-koushiki
 </p>
 ```
 
-## ☕ Fun Section
 
-```javascript
-const kaberi = {
-  code: ["HTML", "CSS", "JavaScript", "React"],
-  tools: ["Figma", "GitHub", "VS Code"],
-  challenge: "Building aesthetic modern web apps ✨"
-};
+
+
 
 
 
