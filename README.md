@@ -75,7 +75,7 @@ kaberi-chakrabartty-koushiki
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 ```
-```html id="plmok9"
+
 ## 🎵 Spotify Playing
 
 <p align="center">
