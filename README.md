@@ -71,10 +71,7 @@ const kaberi = {
   tools: ["Figma", "GitHub", "VS Code"],
   challenge: "Building aesthetic modern web apps ✨"
 };
-````
 
-```
-```
 
 
 
