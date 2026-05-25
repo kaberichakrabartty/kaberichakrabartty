@@ -19,15 +19,6 @@ Passionate about building modern, responsive, and user-friendly web applications
 📚 Passionate about coding, design, and innovation
 
 
-## 📊 GitHub Stats
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-
 
 ## 🌐 Connect With Me
 
@@ -48,26 +39,11 @@ kaberi-chakrabartty-koushiki
   </a>
 </p>
 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaberichakrabartty&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-```
-
-## 💫 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaberichakrabartty&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
-
 ## 🌌 Developer GIF
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
 </p>
-
 
 ## ⚡ Random Dev Quote
 
@@ -84,8 +60,7 @@ kaberi-chakrabartty-koushiki
 </p>
 
 
-
-## ✨ Aesthetic Divider
+# ✨ Aesthetic Divider
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
