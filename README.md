@@ -91,6 +91,13 @@ kaberi-chakrabartty-koushiki
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+```
+
 
 
 
