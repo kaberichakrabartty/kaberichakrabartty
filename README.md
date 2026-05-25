@@ -39,11 +39,15 @@ kaberi-chakrabartty-koushiki
   </a>
 </p>
 
-## 🌌 Developer GIF
+## 🪄 Visitor Badge + Followers
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500"/>
+  <img src="https://komarev.com/ghpvc/?username=kaberichakrabartty&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet" />
+  
+  <img src="https://img.shields.io/github/followers/kaberichakrabartty?style=for-the-badge&color=purple" />
 </p>
+```
+
 
 ## ⚡ Random Dev Quote
 
