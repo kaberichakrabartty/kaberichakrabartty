@@ -74,14 +74,16 @@ kaberi-chakrabartty-koushiki
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
-```
 
-## 🎵 Spotify Playing
+## 💻 Workspace Setup
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+  <img src="https://img.shields.io/badge/Laptop-Windows%2011-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Editor-VS%20Code-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Browser-Chrome-orange?style=for-the-badge"/>
 </p>
 ```
+
 
 
 
