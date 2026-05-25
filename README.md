@@ -75,6 +75,14 @@ kaberi-chakrabartty-koushiki
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 ```
+```html id="plmok9"
+## 🎵 Spotify Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxxxxxx&cover_image=true&theme=default&show_offline=false&background_color=121212" />
+</p>
+```
+
 
 
 
