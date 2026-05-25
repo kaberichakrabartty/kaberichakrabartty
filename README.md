@@ -1,8 +1,31 @@
-👋 Hi, I'm Kaberi Chakrabartty
-💻 Frontend Developer | UI Enthusiast | Creative Web Designer
 
-Passionate about building modern, responsive, and user-friendly web applications with clean UI and interactive experiences.
+## 🤖 AI Developer Intro
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Kaberi%20Chakrabartty&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20React%20Enthusiast%20•%20AI%20Explorer&descAlignY=55&descSize=18"/>
+
+# 💫 About Me
+
+```javascript
+class Kaberi {
+  constructor() {
+    this.name = "Kaberi Chakrabartty";
+    this.role = "Frontend Developer";
+    this.language = ["JavaScript", "React", "HTML", "CSS"];
+    this.passion = "Building futuristic web experiences";
+    this.currentFocus = "AI + Modern UI/UX";
+  }
+
+  sayHi() {
+    return "Thanks for visiting my GitHub profile 💜";
+  }
+}
+
+const me = new Kaberi();
+console.log(me.sayHi());
+````
+
+```
+```
 
 
 ## 🚀 Tech Stack & Tools
@@ -10,13 +33,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,bootstrap,figma,git,github,vscode" />
 </p>
-```
-✨ About Me
-🌱 Currently learning advanced React & backend development
-🎨 Love creating aesthetic and interactive UI designs
-🚀 Interested in AI-powered web applications
-💡 Always exploring new technologies and creative ideas
-📚 Passionate about coding, design, and innovation
+
 
 
 
@@ -49,11 +66,7 @@ kaberi-chakrabartty-koushiki
 ```
 
 
-## ⚡ Random Dev Quote
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 
 # ✨ Aesthetic Divider
