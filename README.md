@@ -51,14 +51,6 @@ kaberi-chakrabartty-koushiki
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-## 💻 Workspace Setup
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laptop-Windows%2011-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Editor-VS%20Code-blueviolet?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Browser-Chrome-orange?style=for-the-badge"/>
-</p>
-
 
 # ✨ Aesthetic Divider
 
