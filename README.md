@@ -3,7 +3,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=250&section=header&text=Kaberi%20Chakrabartty&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20React%20Enthusiast%20•%20AI%20Explorer&descAlignY=55&descSize=18"/>
 
-# 💫 About Me
+
+## 💫 About Me
 
 ```javascript
 class Kaberi {
